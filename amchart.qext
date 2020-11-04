@@ -1,0 +1,9 @@
+{
+    "name": "amchart",
+    "description": "Qlik Sense amCharts 4 boilerplace",
+    "icon": "extension",
+    "type": "visualization",
+    "version": "0.9.0",
+    "preview": "databridgelogo.png",
+    "author": "Christof Schwarz"
+}
